@@ -1,0 +1,38 @@
+{
+  "name": "tjapkardus.com",
+  "short_name": "TjapKardus",
+  "start_url": "https://www.tjapkardus.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Tutorial, Tips and Trik, Internet, dan Komputer.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-bXRCJKB91cE/W7zNvxtTn_I/AAAAAAAAFhs/L684X2ImfjwxFZmWBcAUGce7x4gjpwq_gCLcBGAs/s48/Tjap_Kardus.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-bXRCJKB91cE/W7zNvxtTn_I/AAAAAAAAFhs/L684X2ImfjwxFZmWBcAUGce7x4gjpwq_gCLcBGAs/s72/Tjap_Kardus.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-bXRCJKB91cE/W7zNvxtTn_I/AAAAAAAAFhs/L684X2ImfjwxFZmWBcAUGce7x4gjpwq_gCLcBGAs/s96/Tjap_Kardus.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-bXRCJKB91cE/W7zNvxtTn_I/AAAAAAAAFhs/L684X2ImfjwxFZmWBcAUGce7x4gjpwq_gCLcBGAs/s144/Tjap_Kardus.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-bXRCJKB91cE/W7zNvxtTn_I/AAAAAAAAFhs/L684X2ImfjwxFZmWBcAUGce7x4gjpwq_gCLcBGAs/s168/Tjap_Kardus.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-bXRCJKB91cE/W7zNvxtTn_I/AAAAAAAAFhs/L684X2ImfjwxFZmWBcAUGce7x4gjpwq_gCLcBGAs/s192/Tjap_Kardus.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-bXRCJKB91cE/W7zNvxtTn_I/AAAAAAAAFhs/L684X2ImfjwxFZmWBcAUGce7x4gjpwq_gCLcBGAs/s512/Tjap_Kardus.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
