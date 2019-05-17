@@ -1,7 +1,7 @@
 {
   "name": "tjapkardus.com",
   "short_name": "JAPKARDUS",
-  "start_url": "https://www.tjapkardus.com/?m=1",
+  "start_url": "https://www.tjapkardus.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
